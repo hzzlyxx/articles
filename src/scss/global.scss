@@ -1,0 +1,12 @@
+@import './reset';
+
+html,
+body,
+#app {
+  height: auto;
+  font-family: 'SF Pro SC', 'SF Pro Text', 'SF Pro Icons', 'PingFang SC', 'Helvetica Neue',
+    'Helvetica', 'Arial', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #1f2d3d;
+}

@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Articles",
+  "description": "Collect Articles From Internet",
+  "version": "1.0.0",
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "browser_action": {
+    "default_icon": "icon_19.png",
+    "default_popup": "popup.html",
+    "default_title": "Articles"
+  },
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ]
+}
